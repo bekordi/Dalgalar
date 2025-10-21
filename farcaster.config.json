@@ -1,0 +1,12 @@
+{
+  "name": "Water Ripple MiniApp",
+  "description": "Dokununca su dalgaları oluşturan basit bir Farcaster miniapp 🌊",
+  "icon": "https://yourdomain.com/icon.png",
+  "splash": {
+    "backgroundColor": "#bae6fd",
+    "imageUrl": "https://yourdomain.com/splash.png"
+  },
+  "homeUrl": "https://ripple.vercel.app",
+  "categories": ["visual", "interactive"],
+  "version": "1.0.0"
+}
