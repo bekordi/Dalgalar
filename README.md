@@ -1,5 +1,6 @@
 # 🌊 Farcaster Water Ripple MiniApp
 YAPAMADIM
+yapmadım
 Dokunulduğunda su dalgası efekti oluşturan minimal bir **Farcaster MiniApp**.
 
 ## 🚀 Kurulum
